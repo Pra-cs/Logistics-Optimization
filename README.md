@@ -19,7 +19,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/process-flow-creator.git
+git clone https://github.com/Pra-cs/Logistics-Optimization.git
 cd process-flow-creator
 ```
 
